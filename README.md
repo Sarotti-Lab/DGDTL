@@ -1,4 +1,4 @@
-DFDTL: Data and Software Availability Statement
+DGDTL: Data and Software Availability Statement
 ================
 Pérez José A, Zanardi María M, and Sarotti Ariel M.
 
