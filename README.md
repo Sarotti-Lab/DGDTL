@@ -28,13 +28,6 @@ They include the necessary Python scripts, input files to run the
 workflows, and the key output files generated from our analyses for
 verification.
 
-## Data Availability
-
-All datasets required to reproduce the essential findings of this study
-are provided in a machine-readable format. These datasets, including
-training matrices, computational cost vectors, and key input/output
-files, are publicly available in the **Mendeley Data** repository under
-the DOI: **10.17632/fd7y24vfdm.1**.
 
 ## Software Availability and Licensing
 
